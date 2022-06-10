@@ -1,2 +1,2 @@
 # IA_FinalProject
-Repo for Informations Archtecturs final project in Spring 22'
+Repo for Informations Architectures final-project @ YU, Spring 2022
